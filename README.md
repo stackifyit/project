@@ -18,7 +18,7 @@ While this repository is primarily for issue tracking, if you have any resources
 
 ## Code of Conduct
 
-We strive to maintain a welcoming and inclusive environment. Please read our [Code of Conduct](LINK_TO_CODE_OF_CONDUCT.md) to understand what kind of behavior is expected.
+We strive to maintain a welcoming and inclusive environment. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand what kind of behavior is expected.
 
 ## Contact
 
