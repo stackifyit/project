@@ -22,5 +22,5 @@ We strive to maintain a welcoming and inclusive environment. Please read our [Co
 
 ## Contact
 
-If you have questions or need further assistance, please reach out to us at [support@example.com](mailto:support@stackifyit.com).
+If you have questions or need further assistance, please reach out to us at [support@stackifyit.com](mailto:support@stackifyit.com).
 
